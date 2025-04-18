@@ -1,5 +1,5 @@
 let searchTextBox = document.querySelector('.searchTextBox')
-let searchButton = document.querySelector('.searchButton')
+let searchButton = document.querySelector('.Search')
 
 let list = [
     "test",
