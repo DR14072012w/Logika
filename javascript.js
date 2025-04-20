@@ -1,4 +1,4 @@
-let searchTextBox = document.querySelector('.searchTextBox')
+let searchTextBox = document.querySelector('.SearchTextBox')
 let searchButton = document.querySelector('.Search')
 
 let list = [
