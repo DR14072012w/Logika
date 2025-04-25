@@ -18,3 +18,17 @@ searchButton.addEventListener("click", function(){
     }
 
 })
+
+function showInfo(infoId) {
+    const popup = document.getElementById('infoContainer');
+    const allContents = popup.querySelectorAll('.info-content');
+  
+    allContents.forEach(content => content.style.display = 'none');
+  
+    document.getElementById(infoId).style.display = 'block';
+    popup.style.display = 'block';
+}
+  
+function hideInfo() {
+    document.getElementById('infoContainer').style.display = 'none';
+}

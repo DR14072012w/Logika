@@ -59,19 +59,3 @@
     background-size: cover;
     background-position: center;
 }
-
-.container-Categories1 {
-    display: flex;
-    border: 2px solid #000000;
-}
-
-.Subject1 {
-    display: flex;
-    border: 2px solid #000000;
-    font-size: 25px;
-    width: 75px;
-    height: 75px;
-    margin-top: 4px;
-    margin-bottom: 4px;
-    margin-left: 4px;
-}
