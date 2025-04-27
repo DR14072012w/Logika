@@ -88,4 +88,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    border: 2px solid black;
+    margin-left: 560px;
+    margin-right: 560px;
+    font-size: 26px;
+    text-decoration: none;
+    border-radius: 10px;
 }
