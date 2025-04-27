@@ -83,3 +83,9 @@ body {
     flex-direction: column;
     background-color: rgb(165, 142, 105);
 }
+
+.Back {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
