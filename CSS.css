@@ -52,14 +52,13 @@
 
 .Categories {
     display: flex;
-    font-size: 400px;
     border: 2px solid #000000;
     margin-right: 10px;
     width: 300px;
     height: 450px;
     margin-top: 4px;
     margin-bottom: 4px;
-    background-size: cover;
+    background-size: 125% 80%;
     background-position: center;
 }
 
