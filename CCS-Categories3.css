@@ -73,3 +73,13 @@ body {
     background-position: center;
     border: 3px solid rgb(255, 255, 255);
 }
+
+img:hover {
+  filter: brightness(1.2);
+  transition: 0.3s ease;
+}
+
+.Subject:hover {
+  filter: brightness(1.2);
+  transition: 0.3s ease;
+}
